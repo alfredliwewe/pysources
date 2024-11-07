@@ -13,4 +13,14 @@ isMale = False # boolean
 
 fullName = firstName + " Sitolo"
 
-print(fullName)
+siblings = ["Dominic", "Alfred", "Moses"] # array / list / collection
+
+alfred = {
+    "firstName": "Alfred",
+    "lastName": "Liwewe",
+    "isMale": True
+} # dictionary
+
+#print(fullName)
+
+print(siblings[2])
